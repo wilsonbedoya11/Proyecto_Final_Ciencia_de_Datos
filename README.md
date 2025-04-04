@@ -1,5 +1,9 @@
 # Inversion en Educación y su impacto en lo Socio-Economico
 
+## Participantes:
+* Andrea Sánchez López
+* Wilson Andrés Bedoya Oquendo.
+
 ## Descripción:
 Se alamacenara en el repositorio de GITHUB los resultados obtenidos durante el bootcamp de ciencia de datos realizado en la Universidad de Antioquia 2025.
 
