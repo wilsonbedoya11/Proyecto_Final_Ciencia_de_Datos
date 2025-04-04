@@ -30,6 +30,6 @@ La participación de las mujeres para los campos educativos y laboral.
 La visualización de los resultados se encuentran en el Link Power BI: https://app.powerbi.com/view?r=eyJrIjoiNTBhNDdlZGYtODZkNS00ZTgwLThhZTEtZWFlMDJmNjllYTQ0IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9
 
 ## Instrucciones:
-* Carpeta Archivos Originales:        Se almacena los documentos originales CSV descargados de las paginas WEB de los Censos para los departamentos de Antioquia y Cundinamarca. \n
+* Carpeta Archivos Originales:        Se almacena los documentos originales CSV descargados de las paginas WEB de los Censos para los departamentos de Antioquia y Cundinamarca.
 * Carpeta Archivos Transformados:     Se almacena los archivos CSV resultantes de las transformaciones realizadas. 
 * Carpeta Archivos Limpieza de datos: Se almacena los archivos ipynb donde se tienen los procesos de limpieza y transformación de datos. 
