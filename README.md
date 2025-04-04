@@ -27,7 +27,7 @@ Como se tomo la información en el 2005 y en el 2018, ya que en el 2005 se encon
 La importancia que se le ha dado a la educación en los ultimos años.
 La participación de las mujeres para los campos educativos y laboral.
 
-Los resultados se encuentran en el Link Power BI:
+La visualización de los resultados se encuentran en el Link Power BI: https://app.powerbi.com/view?r=eyJrIjoiNTBhNDdlZGYtODZkNS00ZTgwLThhZTEtZWFlMDJmNjllYTQ0IiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9
 
 ## Instrucciones:
 Carpeta Archivos Originales:        Se almacena los documentos originales CSV descargados de las paginas WEB de los Censos para los departamentos de Antioquia y Cundinamarca.
