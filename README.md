@@ -32,4 +32,4 @@ La visualización de los resultados se encuentran en el Link Power BI: https://a
 ## Instrucciones:
 * Carpeta Archivos Originales:        Se almacena los documentos originales CSV descargados de las paginas WEB de los Censos para los departamentos de Antioquia y Cundinamarca.
 * Carpeta Archivos Transformados:     Se almacena los archivos CSV resultantes de las transformaciones realizadas. 
-* Carpeta Archivos Limpieza de datos: Se almacena los archivos ipynb donde se tienen los procesos de limpieza y transformación de datos. 
+* Carpeta Archivos Limpieza de datos: Se almacena los archivos ipynb donde se tienen los procesos de limpieza, transformación de datos y union de archivos. 
